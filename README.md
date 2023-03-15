@@ -1,4 +1,4 @@
-# practice1
+# program to reverse an array
 #array_programs
 package work_placement;
 
